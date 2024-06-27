@@ -10,8 +10,7 @@ Welcome to the GPT-2 Text Generation project using KerasNLP! This repository con
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
